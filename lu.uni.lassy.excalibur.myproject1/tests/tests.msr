@@ -1,0 +1,19 @@
+/*
+* @author Asus
+* @date Wed Oct 12 16:23:49 AST 2016
+*/
+
+package lu.uni.lassy.excalibur.myproject1.tests {
+
+import lu.uni.lassy.messir.libraries.calendar
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.string
+
+
+
+	Test Model {
+		
+	}
+
+}
